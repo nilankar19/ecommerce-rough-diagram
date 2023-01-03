@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T10:24:37.276Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.0" etag="VYLj8QC4u3gy77UDNQEN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T10:32:39.848Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.0" etag="GJMSOUshFn1Q-fj1Gvvp" type="github">
   <diagram id="0Up1hGtttjpqdvLqP0wH" name="Page-1">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="1N2BxEW2o6z4Im9ej5pz-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="60" width="450" height="620" as="geometry" />
         </mxCell>
-        <mxCell id="1N2BxEW2o6z4Im9ej5pz-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1N2BxEW2o6z4Im9ej5pz-26" value="img" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="90" width="210" height="250" as="geometry" />
         </mxCell>
         <mxCell id="1N2BxEW2o6z4Im9ej5pz-28" value="name(50Letters)&lt;br&gt;link(personelDomain)&lt;br&gt;{stars} {1234 ratings} {324 review}" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="1N2BxEW2o6z4Im9ej5pz-34" value="cloths" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
           <mxGeometry y="100" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1N2BxEW2o6z4Im9ej5pz-38" value="Color&amp;nbsp;&lt;br&gt;brand&lt;br&gt;Material&lt;br&gt;Product&amp;nbsp; &amp;nbsp;Dimesions&lt;br&gt;Number of items&lt;br&gt;product Care details&lt;br&gt;size&lt;br&gt;Net QUantity&lt;br&gt;Fabric type&lt;br&gt;&amp;nbsp;shape&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1N2BxEW2o6z4Im9ej5pz-39" value="About this Item" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="780" y="550" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
