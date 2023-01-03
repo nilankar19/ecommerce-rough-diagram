@@ -1,1 +1,1 @@
-# resume
+# rough diagram of ecommerce project
