@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T10:02:00.131Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.0" etag="DqhDqL-Fwz4YXs2q8oxt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T10:13:47.853Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.0" etag="kpb7UQqVqiy-66ljmosM" type="github">
   <diagram id="0Up1hGtttjpqdvLqP0wH" name="Page-1">
     <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,10 +20,16 @@
           <mxGeometry x="310" y="210" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1N2BxEW2o6z4Im9ej5pz-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="50" width="440" height="470" as="geometry" />
+          <mxGeometry x="520" y="60" width="450" height="470" as="geometry" />
         </mxCell>
         <mxCell id="1N2BxEW2o6z4Im9ej5pz-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="90" width="210" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="1N2BxEW2o6z4Im9ej5pz-28" value="name(50Letters)&lt;br&gt;link(personelDomain)&lt;br&gt;{stars} {1234 ratings} {324 review}" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1N2BxEW2o6z4Im9ej5pz-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="780" y="150" width="160" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
