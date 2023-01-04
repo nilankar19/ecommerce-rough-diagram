@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T07:03:06.752Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="S_5GruFlYWK7ZLflB_mU" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T07:13:48.587Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CBwhOy9j6YEtGCPH5Jz-" version="20.8.0" type="github">
   <diagram id="0Up1hGtttjpqdvLqP0wH" name="Page-1">
-    <mxGraphModel dx="1619" dy="1481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="1319" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,8 +145,8 @@
         <mxCell id="wYb-rfUJR1zPXeOYWPvG-39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="44" y="-1010" width="750" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-40" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="-829" y="-1008" width="814" height="163" as="geometry" />
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-42" value="reusabel components sec_01 {props.child.ui, {child}}" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="-816" y="-1016" width="797" height="171" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
