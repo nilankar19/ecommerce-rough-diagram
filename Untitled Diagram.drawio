@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T06:38:31.373Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Ljz1-qE1-y93jlAhE34e" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-04T06:42:39.627Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="VWq7MajYkxHIh5SeGJyN" version="20.8.0" type="github">
   <diagram id="0Up1hGtttjpqdvLqP0wH" name="Page-1">
     <mxGraphModel dx="1257" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,6 +58,9 @@
         <mxCell id="wYb-rfUJR1zPXeOYWPvG-4" value="signUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="-1057.5" width="100" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wYb-rfUJR1zPXeOYWPvG-5" target="wYb-rfUJR1zPXeOYWPvG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wYb-rfUJR1zPXeOYWPvG-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="850" y="-1015" width="330" height="450" as="geometry" />
         </mxCell>
@@ -94,23 +97,26 @@
         <mxCell id="wYb-rfUJR1zPXeOYWPvG-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="1280" y="-990" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-930" width="120" height="40" as="geometry" />
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-19" value="signUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-940" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-850" width="200" height="40" as="geometry" />
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-20" value="email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-880" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-790" width="200" height="40" as="geometry" />
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-21" value="password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-830" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="-720" width="120" height="40" as="geometry" />
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-22" value="signUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-770" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-23" value="create account with github" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-610" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wYb-rfUJR1zPXeOYWPvG-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-24" value="create account with twitter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-650" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wYb-rfUJR1zPXeOYWPvG-25" value="create account with google" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="-690" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
